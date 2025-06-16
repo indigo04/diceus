@@ -20,6 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Technologies
 
-React/Next.js/Tailwind/Lucide-react/Recharts
+React/Next.js/Tailwind/Lucide-react/Recharts/GPT
 
 
